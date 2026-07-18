@@ -17,12 +17,7 @@ public class q1 {
         }
 
        
-        for (int i = 1; i <= N; i++) {
-            System.out.println("Table of " + i);
-            for (int j = 1; j <= 10; j++) {
-                System.out.println(i + " X " + j + " = " + (i * j));
-            }
-        }
+        
 
         sc.close();
     }
